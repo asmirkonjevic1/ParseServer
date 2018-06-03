@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9c27b0</color>
+    <color name="colorPrimaryDark">#7b1fa2</color>
+    <color name="colorAccent">#d602ee</color>
+    <color name="overflowMenuBg">#FFFFFF</color>
+    <color name="overflowMenuBgText">#000000</color>
+    <color name="feedBackground">#EEEEEE</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#ffffff</color>
+</resources>
